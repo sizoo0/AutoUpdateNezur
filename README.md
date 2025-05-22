@@ -1,2 +1,2 @@
 # AutoUpdateNezur
-AutoUpdate used for MoonExecutor
+AutoUpdate used for Exon
